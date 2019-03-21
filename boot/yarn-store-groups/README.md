@@ -55,7 +55,7 @@ List running instances.
 $ submitted 
   APPLICATION ID                  USER          NAME               QUEUE    TYPE  STARTTIME       FINISHTIME  STATE    FINALSTATUS  ORIGINAL TRACKING URL
   ------------------------------  ------------  -----------------  -------  ----  --------------  ----------  -------  -----------  -------------------------
-  application_1422453318707_0014  jvalkealahti  yarn-store-groups  default  BOOT  03/02/15 17:52  N/A         RUNNING  UNDEFINED    http://172.16.101.1:41353
+  application_1422453318707_0014  jvalkealahti  yarn-store-groups  default  BOOT  03/02/15 17:52  N/A         RUNNING  UNDEFINED    https://172.16.101.1:41353
 ```
 
 See clusters within the app.

@@ -8,7 +8,7 @@ for Spring Hadoop. Currently vanilla Hadoop 2.2.0-alpha is supported.
 # gradlew -Pdistro=hadoop20 clean build -x test
 ```
 
-This project provides a number of examples to get you started using Spring Yarn and Spring Hadoop. These examples are designed to work with [Spring Hadoop] (http://www.springsource.org/spring-hadoop) 2.0 or higher and are organized into the following sub projects:
+This project provides a number of examples to get you started using Spring Yarn and Spring Hadoop. These examples are designed to work with [Spring Hadoop] (https://www.springsource.org/spring-hadoop) 2.0 or higher and are organized into the following sub projects:
 
 # Yarn Examples
 
